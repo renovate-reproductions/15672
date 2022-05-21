@@ -1,0 +1,25 @@
+{
+  "name": "renovate-15672",
+  "version": "1.0.0",
+  "description": "Minimal reproduction for Renovate discussion #15672.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HonkingGoose/renovate-15672.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HonkingGoose/renovate-15672/issues"
+  },
+  "homepage": "https://github.com/HonkingGoose/renovate-15672#readme",
+  "dependencies": {
+    "@chakra-ui/react": "1.8.8"
+  },
+  "devDependencies": {
+    "@chakra-ui/cli": "1.9.0"
+  }
+}
