@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/HonkingGoose/renovate-15672#readme",
   "dependencies": {
-    "@chakra-ui/react": "1.8.8"
+    "@chakra-ui/react": "2.1.1"
   },
   "devDependencies": {
-    "@chakra-ui/cli": "1.9.0"
+    "@chakra-ui/cli": "2.0.0"
   }
 }
